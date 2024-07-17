@@ -39,5 +39,5 @@ In this project, we developed an interactive drawing application that uses hand 
 - **Intuitive UI**: Color selection panel and size options for an enhanced user experience.
 - **Undo Functionality**: Allows users to revert their last action for improved control.
 
-This project showcases the integration of computer vision and machine learning techniques to create an interactive and user-friendly drawing application. The complete code can be found. 
+This project showcases the integration of computer vision and machine learning techniques to create an interactive and user-friendly drawing application.
 
