@@ -1,6 +1,4 @@
-# Air_Canvas_ML
-
-### Interactive Hand-Gesture Controlled Drawing Application
+#  Interactive Hand-Gesture Controlled Drawing Application
 
 In this project, we developed an interactive drawing application that uses hand gestures to control drawing on a virtual canvas. Leveraging OpenCV for video processing and MediaPipe for hand tracking, this application detects and interprets hand movements to draw, select colors, change brush sizes, and erase drawings in real-time. Below is a summary of the workflow and key functionalities:
 
